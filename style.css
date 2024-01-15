@@ -1,0 +1,61 @@
+#text{
+    position: absolute;top: 50%;left: 50px;
+}
+.km{
+    position: absolute;top:105% ;left: 5%;
+    background-color: rgb(255, 145, 0);
+}
+.track{
+    position: absolute;left: 60%;top: 50%;
+}
+#use{
+    min-width: 160%;
+    padding: 5%;
+}
+#search{
+    position: absolute;left: 160%;top: 4%;
+    padding: 5%;
+    background-color: rgb(250, 150, 0);
+}
+.tr{
+    position: absolute;top: 68%;left: 75%;
+    background-color: rgb(255, 146, 4);
+}
+#querya{
+    text-align: center;
+    background-color: aqua;
+    padding: 1%;
+}
+#foot{
+    text-align: center;
+    background-color: black ;
+    padding: 1%;
+}
+a:hover{
+    color: crimson;
+}
+button:hover{
+    color: darkred;
+}
+
+#form{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.692);
+}
+#Ellaborate{
+    margin: 10px;
+}
+#head{
+    background-color: black;
+    padding: 20px;
+    width: 1325px;
+}
+.home{
+    font-size: 150%;
+    text-decoration: none;
+    color: white ;
+}
